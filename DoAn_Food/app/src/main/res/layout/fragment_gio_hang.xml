@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAD0D2"
+    android:orientation="horizontal"
+    tools:context=".User.GioHang_Fragment">
+
+    <ScrollView
+        android:id="@+id/scroolview"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_centerHorizontal="true">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/listGioHang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnThanhToan"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/scroolview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/add_to_cart_bg"
+        android:text="Thanh Toán"
+        android:textSize="12pt" />
+
+    <Button
+        android:id="@+id/btnMuaTiep"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnThanhToan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/add_to_cart_bg"
+        android:text="Mua Tiếp"
+        android:textSize="12pt" />
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.ForgotPass"
+    android:background="@drawable/forgotpass">
+
+    <EditText
+        android:id="@+id/txtForgotPass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/lblforgot"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/input_bg"
+        android:drawableLeft="@drawable/ic_email"
+        android:drawablePadding="10dp"
+        android:ems="10"
+        android:hint="Nhập Email"
+        android:inputType="textPersonName"
+        android:textColor="@color/white"
+
+        android:textColorHint="@color/white"
+        android:textSize="10pt"
+
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnForgotPass"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtForgotPass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/add_to_cart_bg"
+        android:text="Gửi email" />
+
+    <TextView
+        android:id="@+id/lblforgot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgforgot"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"
+        android:fontFamily="casual"
+        android:text="Quên Mật Khẩu?"
+        android:textColor="@color/teal_200"
+        android:textSize="20pt"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgback"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/btn_bg"
+        android:backgroundTint="@color/purple_200"
+        android:onClick="backdn"
+        app:srcCompat="@drawable/ic_arrow_back_black_24dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgforgot"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:paddingTop="15dp"
+        android:src="@drawable/forgotimg"
+        app:civ_border_color="#FF000000" />
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/font/open_sans_bold.xml" value="0.284375" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/font/open_sans_semibold.xml" value="0.284375" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/activity_dang_nhap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/activity_forgot_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/layout/nav_header_main_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/Desktop/DoAn_Food/app/src/main/res/menu/menu_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_dang_nhap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_food_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_forgot_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_lst_dat_hang.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_sua_mon_an.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_thanh_toan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_them_mon_an.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/activity_xoa_sua.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_dat_hang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_gio_hang.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_lst_food_dh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_q_l__dat_hang_.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_ql_dathang.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_ql_mon_an.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_ql_thongke.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/fragment_yeu_thich.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_food.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_food_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_hoadon.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_list_food.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_list_food_cart.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_list_food_hoadon.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/layout_list_food_like.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/nav_header_main_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/layout/spinner_item.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/OneDrive - Ho Chi Minh city University of Food Industry/Study/DiDong/DoAn_Food/app/src/main/res/menu/menu_admin.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

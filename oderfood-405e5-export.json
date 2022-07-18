@@ -1,0 +1,627 @@
+{
+  "Category" : {
+    "-LiTIxuPRXrHxEIsqXVl" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fcbde908a-81d1-4938-a13a-a1f89cc58f5c?alt=media&token=771c922e-42cc-43cc-994b-c936190842b9",
+      "name" : "Bánh VN"
+    },
+    "-LiTKnoy3oq-KcsBv8Ov" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fc2ef1578-bb7c-4028-bd0c-8fc39767e93c?alt=media&token=64e8792d-fd8f-46b8-91cd-a45f91e046f3",
+      "name" : "Món TQ"
+    },
+    "-LiTLWnx80mOsco5bODm" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F8514f46a-b9fe-4d6f-93a5-e30fb66e3b17?alt=media&token=0da7fbb4-eeee-42c4-975e-8ff324032389",
+      "name" : "Món Cơm"
+    },
+    "-LiTMCopS5_OAh7GgpvH" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F1cb68d98-ae72-4bc7-b323-ece117894194?alt=media&token=bafcb30f-0e9b-4944-91fc-06c59bab99d1",
+      "name" : "Món Cháo"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531051858if_/http://medifoods.my/images/menu/p1_ginger_pao.jpg",
+      "menuId" : "11",
+      "name" : "GINGER PAO",
+      "price" : "1000"
+    },
+    "02" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531062844if_/http://medifoods.my/images/menu/p2_coconut_pao.jpg",
+      "menuId" : "11",
+      "name" : "COCONUT PAO",
+      "price" : "1000"
+    },
+    "03" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531085743if_/http://medifoods.my/images/menu/p3_red_bean_pao.jpg",
+      "menuId" : "11",
+      "name" : "RED BEAN PAO",
+      "price" : "1000"
+    },
+    "04" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531103143if_/http://medifoods.my/images/menu/p4_char_siew_pao.jpg",
+      "menuId" : "11",
+      "name" : "CHAR SIEW PAO",
+      "price" : "1000"
+    },
+    "05" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531030052if_/http://medifoods.my/images/menu/p5_chai_pao.jpg",
+      "menuId" : "11",
+      "name" : "CHAI PAO",
+      "price" : "1000"
+    },
+    "06" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531093214if_/http://medifoods.my/images/menu/d1_onde_onde.jpg",
+      "menuId" : "11",
+      "name" : "ONDE ONDE",
+      "price" : "1000"
+    },
+    "07" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531090157if_/http://medifoods.my/images/menu/d2_chai_kuih.jpg",
+      "menuId" : "11",
+      "name" : "CHAI KUIH",
+      "price" : "1000"
+    },
+    "08" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531085724if_/http://medifoods.my/images/menu/d5_yam_cake.jpg",
+      "menuId" : "11",
+      "name" : "YAM CAKE",
+      "price" : "1000"
+    },
+    "09" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531093137if_/http://medifoods.my/images/menu/d6_radish_cake.jpg",
+      "menuId" : "11",
+      "name" : "RADISH CAKE",
+      "price" : "1000"
+    },
+    "10" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531024834if_/http://medifoods.my/images/menu/d7_pumpkin_cake.jpg",
+      "menuId" : "11",
+      "name" : "PUMPKIN CAKE",
+      "price" : "1000"
+    },
+    "11" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531044849if_/http://medifoods.my/images/menu/d8_d9_angku.jpg",
+      "menuId" : "11",
+      "name" : "ANG KU",
+      "price" : "1000"
+    },
+    "12" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531025101if_/http://medifoods.my/images/menu/d10_fatt_ko.jpg",
+      "menuId" : "11",
+      "name" : "FATT KO",
+      "price" : "1000"
+    },
+    "13" : {
+      "description" : "",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531044203if_/http://medifoods.my/images/menu/d11_three_layer_cake.jpg",
+      "menuId" : "11",
+      "name" : "3 LAYER CAKE",
+      "price" : "1000"
+    },
+    "14" : {
+      "description" : "Bamboo fungus in spicy thai style sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530195807if_/http://medifoods.my/images/menu/a1_thai_style_salad.jpg",
+      "menuId" : "01",
+      "name" : "THAI STYLE SALAD",
+      "price" : "1000"
+    },
+    "15" : {
+      "description" : "Glutinous rice ball with black sesame paste filling coated with minced peanuts",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530140402if_/http://medifoods.my/images/menu/a2_sesame_ball_peanut.jpg",
+      "menuId" : "01",
+      "name" : "BLACK SESAME BALL",
+      "price" : "1000"
+    },
+    "16" : {
+      "description" : "Golden fried spinach potato ball",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530135929if_/http://medifoods.my/images/menu/a3_potato_ball.jpg",
+      "menuId" : "01",
+      "name" : "SPINACH POTATO BALL",
+      "price" : "1000"
+    },
+    "17" : {
+      "description" : "Apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530195230if_/http://medifoods.my/images/menu/a4_caramelised_sunflower_seeds.jpg",
+      "menuId" : "01",
+      "name" : "DOUBLE DELIGHT",
+      "price" : "1000"
+    },
+    "18" : {
+      "description" : "Tofu in spicy thai style sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530195539if_/http://medifoods.my/images/menu/a5_sour_and_spicy_tofu.jpg",
+      "menuId" : "01",
+      "name" : "SOUR & SPICY TOFU",
+      "price" : "1000"
+    },
+    "23" : {
+      "description" : "Lotus root, ground nuts and kombu",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530202044if_/http://medifoods.my/images/menu/s5_lotus_chinese_soup.jpg",
+      "menuId" : "03",
+      "name" : "LOTUS ROOT",
+      "price" : "1000"
+    },
+    "24" : {
+      "description" : "Old cucumber and longan",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530142600if_/http://medifoods.my/images/menu/s6_old_cucumber_chinese_soup.jpg",
+      "menuId" : "03",
+      "name" : "OLD CUCUMBER",
+      "price" : "1000"
+    },
+    "25" : {
+      "description" : "Burdock, fig, longan and goji berry",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530135611if_/http://medifoods.my/images/menu/s7_bur_dock_chinese_soup.jpg",
+      "menuId" : "03",
+      "name" : "BURDOCK",
+      "price" : "1000"
+    },
+    "26" : {
+      "description" : "Carrot, potato, onion, and tomato",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200635if_/http://medifoods.my/images/menu/s8_abc_chinese_soup.jpg",
+      "menuId" : "03",
+      "name" : "ABC",
+      "price" : "1000"
+    },
+    "28" : {
+      "description" : "A patty made of organic mushrooms, lentils and spices, topped with an organic sunny side up egg",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530204515if_/http://medifoods.my/images/menu/22_egg_mayo.jpg",
+      "menuId" : "04",
+      "name" : "LENTIL SANDWICH",
+      "price" : "1000"
+    },
+    "29" : {
+      "description" : "A refreshing dip made with chickpeas, tahini (sesame paste), and served with crackers, pita bread, fruit and an assortment of salads",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200349if_/http://medifoods.my/images/menu/23_hummus_platter.jpg",
+      "menuId" : "04",
+      "name" : "HUMMUS PLATTER",
+      "price" : "1000"
+    },
+    "30" : {
+      "description" : "Mushrooms and onion",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531093222if_/http://medifoods.my/images/menu/21_mushroom_pizza.jpg",
+      "menuId" : "05",
+      "name" : "MUSHROOM PIZZA",
+      "price" : "1000"
+    },
+    "31" : {
+      "description" : "Tomatoes, capsicum and pesto",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531093222if_/http://medifoods.my/images/menu/21_mushroom_pizza.jpg",
+      "menuId" : "05",
+      "name" : "MUSHROOM PIZZA",
+      "price" : "1000"
+    },
+    "32" : {
+      "description" : "Pineapple, beancurd sheet and onion",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531042112if_/http://medifoods.my/images/menu/19_hawaiian_pizza.jpg",
+      "menuId" : "05",
+      "name" : "HAWAIIAN PIZZA",
+      "price" : "1000"
+    },
+    "33" : {
+      "description" : "Pasta tossed with capsicum, tofu, soybean chunks and special herb-infused olive oil",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200557if_/http://medifoods.my/images/menu/15_garden_aglio_olio.jpg",
+      "menuId" : "06",
+      "name" : "GARDEN AGLIO OLIO",
+      "price" : "1000"
+    },
+    "34" : {
+      "description" : "Pasta tossed with traditional Asian spices and served with pan fried diced vegetables",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530144341if_/http://medifoods.my/images/menu/17_spicy_aglio_olio.jpg",
+      "menuId" : "06",
+      "name" : "SPICY AGLIO OLIO",
+      "price" : "1000"
+    },
+    "35" : {
+      "description" : "Bolognese spaghetti with chunky vegetables",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530141826if_/http://medifoods.my/images/menu/18_spaghetti_bolognese.jpg",
+      "menuId" : "06",
+      "name" : "BOLOGNESE AGLIO OLIO",
+      "price" : "1000"
+    },
+    "36" : {
+      "description" : "Creamy fettuccine served with green peas, cauliflower and long beans",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200611if_/http://medifoods.my/images/menu/14_cauliflower_fettucine.jpg",
+      "menuId" : "06",
+      "name" : "CAULIFLOWER FETTUCCINE",
+      "price" : "1000"
+    },
+    "37" : {
+      "description" : "It's unique and one of a kind!",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530195428if_/http://medifoods.my/images/menu/16_medifoods_fusion_spaghetti.jpg",
+      "menuId" : "06",
+      "name" : "FUSION SPAGHETTI",
+      "price" : "1000"
+    },
+    "38" : {
+      "description" : "Served with mushroom gravy, cranberry & mint sauces",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200626if_/http://medifoods.my/images/menu/4_roasted_quarter_chicken_with_special_sauces.jpg",
+      "menuId" : "07",
+      "name" : "ROASTED QUARTER CHICKEN",
+      "price" : "1000"
+    },
+    "39" : {
+      "description" : "Chicken served in curry that is made from more than 10 spices to bring out the authentic traditional taste. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530204348if_/http://medifoods.my/images/menu/2_curry_chic.jpg",
+      "menuId" : "07",
+      "name" : "CURRY CHICKEN",
+      "price" : "1000"
+    },
+    "40" : {
+      "description" : "Chicken served in curry that is made from more than 10 spices to bring out the authentic traditional taste. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530204348if_/http://medifoods.my/images/menu/2_curry_chic.jpg",
+      "menuId" : "07",
+      "name" : "RENDANG CHICKEN",
+      "price" : "1000"
+    },
+    "41" : {
+      "description" : "Steamed chicken with red dates and mushroom. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530201303if_/http://medifoods.my/images/menu/3_herbal_steamed_chic.jpg",
+      "menuId" : "07",
+      "name" : "HERBAL STEAMED CHICKEN",
+      "price" : "1000"
+    },
+    "42" : {
+      "description" : "Half a salmon fish head cooked in an asam broth. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531085829if_/http://medifoods.my/images/menu/9_asam_salmon_fish_head.jpg",
+      "menuId" : "08",
+      "name" : "ASAM FISH HEAD",
+      "price" : "1000"
+    },
+    "43" : {
+      "description" : "Golden fried salmon stuffed bread puffs. Served with mashed potato & salad",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531090025if_/http://medifoods.my/images/menu/10_duo_season_salmon_puff.jpg",
+      "menuId" : "08",
+      "name" : "DUO SEASON SALMON PUFFS",
+      "price" : "1000"
+    },
+    "44" : {
+      "description" : "Breaded fried toman fish slices in pumpkin sauce. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531085736if_/http://medifoods.my/images/menu/11_pumpkin_sauce_fish.jpg",
+      "menuId" : "08",
+      "name" : "TOMAN IN PUMPKIN SAUCE",
+      "price" : "1000"
+    },
+    "45" : {
+      "description" : "Breaded fried toman fish slices in pumpkin sauce. Served with rice and 3 side dishes",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531054717if_/http://medifoods.my/images/menu/5_ginger_vegetarian_fish.jpg",
+      "menuId" : "09",
+      "name" : "GINGER SOY FISH CAKE",
+      "price" : "1000"
+    },
+    "46" : {
+      "description" : "Fried mushroom served in a sweet and savoury sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531080635if_/http://medifoods.my/images/menu/6_kung_po_mushroom_tofu.jpg",
+      "menuId" : "09",
+      "name" : "GONG BAO MUSHROOM TOFU",
+      "price" : "1000"
+    },
+    "47" : {
+      "description" : "An assortment of mushrooms, vegetables and white silken tofu in pumpkin sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531085821if_/http://medifoods.my/images/menu/7_pumpkin_luo_han_zhai.jpg",
+      "menuId" : "09",
+      "name" : "PUMPKIN LUO HAN ZHAI",
+      "price" : "1000"
+    },
+    "48" : {
+      "description" : "Fried breaded monkey head mushroom on a bed of tofu topped with homemade sweet and sour cranberry sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160531100505if_/http://medifoods.my/images/menu/8_sweet_sour_cranberry_monkey_head_mushroom.jpg",
+      "menuId" : "09",
+      "name" : "SWEET & SOUR MONKEY HEAD MUSHROOM",
+      "price" : "1000"
+    },
+    "49" : {
+      "description" : "Enjoy the healthy version of the classic malaysian delight we all love",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530140021if_/http://medifoods.my/images/menu/34_nasi_lemak_veg.jpg",
+      "menuId" : "10",
+      "name" : "MEDIFOODS NASI LEMAK",
+      "price" : "1000"
+    },
+    "50" : {
+      "description" : "Assortment of vegetables & nut served with rice and our signature basil blended soup",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200659if_/http://medifoods.my/images/menu/13_lui_cha.jpg",
+      "menuId" : "10",
+      "name" : "LEI CHA",
+      "price" : "1000"
+    },
+    "51" : {
+      "description" : "Udon noodle stir fried with blackpepper, soy sauce and mixed vegetables",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530202613if_/http://medifoods.my/images/menu/26_black_pepper_udon.jpg",
+      "menuId" : "10",
+      "name" : "BLACK PEPPER UDON",
+      "price" : "1000"
+    },
+    "52" : {
+      "description" : "Rice vermicelli cooked in vegetable soup infused with organic egg",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530202140if_/http://medifoods.my/images/menu/27_cantonese_style_mee_sua.jpg",
+      "menuId" : "10",
+      "name" : "CANTONESE STYLE MEE SUA",
+      "price" : "1000"
+    },
+    "53" : {
+      "description" : "Fried rice with egg, textured soy protein, capsicum and our own lui cha sauce",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530141804if_/http://medifoods.my/images/menu/29_mf_special_fried_rice.jpg",
+      "menuId" : "10",
+      "name" : "MF SPECIAL FRIED RICE",
+      "price" : "1000"
+    },
+    "54" : {
+      "description" : "Bittergourd braised in vegatble soup along with tofu, bamboo fungus and rice vermicilli",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530152817if_/http://medifoods.my/images/menu/30_bittergourd_meehun.jpg",
+      "menuId" : "10",
+      "name" : "BITTERGOURD MEE HOON",
+      "price" : "1000"
+    },
+    "55" : {
+      "description" : "Udon noodles served in a light miso soup with egg, japanese tofu, oyster mushroom and seaweed",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530144755if_/http://medifoods.my/images/menu/31_japanese_ramen.jpg",
+      "menuId" : "10",
+      "name" : "JAPANESE RAMEN",
+      "price" : "1000"
+    },
+    "56" : {
+      "description" : "Boiled calrose rice with pumpkin, textured soy protein, tofu, toman fish and topped with fried meehoon",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530202125if_/http://medifoods.my/images/menu/33_porridge_nonveg.jpg",
+      "menuId" : "10",
+      "name" : "MEDIFOODS PORRIDGE",
+      "price" : "1000"
+    },
+    "57" : {
+      "description" : "Fried rice vermicili with cloud ear, carrot and topped with vegetarian fish",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530200707if_/http://medifoods.my/images/menu/36_mf_hokkien_vegetarian_fried_meehoon.jpg",
+      "menuId" : "10",
+      "name" : "HOKKIEN VEGETARIAN FRIED MEE HOON",
+      "price" : "1000"
+    },
+    "58" : {
+      "description" : "Rice vermicilli served in santan-free curry with chicken, long beans , tau pok and enoki mushrooms",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530195443if_/http://medifoods.my/images/menu/12_curry_mee.jpg",
+      "menuId" : "10",
+      "name" : "CURRY MEE HOON",
+      "price" : "1000"
+    },
+    "59" : {
+      "description" : "Long grain Basmati rice with lentil and millets",
+      "discount" : "0",
+      "image" : "http://web.archive.org/web/20160530201735if_/http://medifoods.my/images/menu/38_mf_rice.jpg",
+      "menuId" : "10",
+      "name" : "MEDIFOODS RICE",
+      "price" : "1000"
+    },
+    "-LfwLobfqLOJvFSnWk2_" : {
+      "decscription" : "vshshs",
+      "discount" : "55",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F45e1326f-d27c-493a-ada5-25ad23decd08?alt=media&token=755f3a5d-c609-4d10-909e-fc08bdbe39a8",
+      "menuId" : "-LfwLie7etwQdidDKOvT",
+      "name" : "abygs",
+      "price" : "5588"
+    },
+    "-Li1YoCa-mv8bGmgsm6V" : {
+      "decscription" : "aâ",
+      "discount" : "5000",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fae7b2db7-395c-4322-9eb7-d3cd15006cbb?alt=media&token=6f52030d-204d-462c-8ba1-d41b35589e98",
+      "menuId" : "-Li1Ybfr7bPdA60hJazm",
+      "name" : "A new",
+      "price" : "1250000"
+    },
+    "-LiTIfeoDEns7B2VLqRd" : {
+      "decscription" : "Bánh VN",
+      "discount" : "500",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F652b999c-1de1-402a-a338-c0378e485bb0?alt=media&token=c33e9eb5-fe80-4d12-a96f-591bf1387afa",
+      "menuId" : "02",
+      "name" : "Bánh VN",
+      "price" : "2000"
+    },
+    "-LiTJ7cL27_YlOP5XaYX" : {
+      "decscription" : "Bánh Xèo",
+      "discount" : "500",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Ffe317b70-472c-439f-9cb4-d58df6e31b13?alt=media&token=957d9b37-3444-4f84-aed3-2f514d19bae3",
+      "menuId" : "-LiTIxuPRXrHxEIsqXVl",
+      "name" : "Bánh Xèo",
+      "price" : "200000"
+    },
+    "-LiTJH1bA6SU_SsDv2_X" : {
+      "decscription" : "Bánh Đúc",
+      "discount" : "5000",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F10775d5c-448a-45aa-8d53-9406bc3a52e4?alt=media&token=a89d7b92-57f1-4ff9-9e5d-a6ac15c7d75c",
+      "menuId" : "-LiTIxuPRXrHxEIsqXVl",
+      "name" : "Bánh Đúc",
+      "price" : "50000"
+    },
+    "-LiTJVJdvOgvuEBKFE1D" : {
+      "decscription" : "BH",
+      "discount" : "800",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Ff6a4382a-1cb9-45ef-ac4d-cc3af12610c7?alt=media&token=2235d85e-4b1b-4e17-88da-e5ea90429953",
+      "menuId" : "-LiTIxuPRXrHxEIsqXVl",
+      "name" : "Bánh Hỏi",
+      "price" : "26800"
+    },
+    "-LiTJf2104YsyU5EgvF_" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fb242ebec-c44b-444f-8517-994009f7fe35?alt=media&token=7a066273-0794-4a04-8ff7-fa47e586953f",
+      "menuId" : "-LiTIxuPRXrHxEIsqXVl",
+      "name" : "Bánh Bò",
+      "price" : "50000"
+    },
+    "-LiTKveYCrfdlXV464IM" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F2b08c07f-b192-4b50-bf84-b2a8a9e0a2bf?alt=media&token=cd31dfbd-68e1-446a-b129-6e063aede33e",
+      "menuId" : "-LiTKnoy3oq-KcsBv8Ov",
+      "name" : "Mì Há Cảo",
+      "price" : "25000"
+    },
+    "-LiTL8YJvvbtmilVE21j" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F959be009-f221-42db-aa82-ade9b9c7aa21?alt=media&token=be07659a-eca1-4913-9d10-defc56d6674d",
+      "menuId" : "-LiTKnoy3oq-KcsBv8Ov",
+      "name" : "Bánh Bao Kim Sa",
+      "price" : "25000"
+    },
+    "-LiTLGYZwaHMrs-OGJr2" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fcc74a52a-3eaf-4be4-a2aa-c9385053306b?alt=media&token=b549bf1f-e7fe-4e1a-88d6-7d80fd1a41fa",
+      "menuId" : "-LiTKnoy3oq-KcsBv8Ov",
+      "name" : "Mì Vịt Tiềm",
+      "price" : "250000"
+    },
+    "-LiTLpUDotKM9jlNkTQW" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F566c3d56-2a14-46ba-9c53-ff9e96842f17?alt=media&token=b174b223-ed5d-47d7-ade6-59e9b09e7cc5",
+      "menuId" : "-LiTLWnx80mOsco5bODm",
+      "name" : "Cơm Chiên Trứng",
+      "price" : "30000"
+    },
+    "-LiTLzji4D9oaQld4nCE" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F40f69f4c-c2f2-4de6-9139-33ca5922e56d?alt=media&token=5a5fb7ea-9fa8-42c8-bdd2-6d8fc5907c0d",
+      "menuId" : "-LiTLWnx80mOsco5bODm",
+      "name" : "Cơm Rau Củ",
+      "price" : "40000"
+    },
+    "-LiTM7FHOec7X9C-46lv" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F6d1cf421-a040-4f7b-9e0a-d45372fe1cf2?alt=media&token=52ef096c-9baf-4be5-9ef4-3fa4e2b3c8de",
+      "menuId" : "-LiTLWnx80mOsco5bODm",
+      "name" : "Cơm Dương Châu",
+      "price" : "100000"
+    },
+    "-LiTMwnAq8LDZ4y7yfPV" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fd7b32a29-8999-4ef2-9378-21c83e13d3c0?alt=media&token=8a390c38-f6c9-4a5d-8de5-c773654d154d",
+      "menuId" : "-LiTMCopS5_OAh7GgpvH",
+      "name" : "Cháo Hạt Sen",
+      "price" : "250000"
+    },
+    "-LiTN3sEPiBeEV-4mqXU" : {
+      "decscription" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F01697f0b-0a1b-45b9-8b5e-cc97a2337454?alt=media&token=857ccad0-d0a5-4ea6-a93a-eb4f68ee8102",
+      "menuId" : "-LiTMCopS5_OAh7GgpvH",
+      "name" : "Cháo Hải Sản",
+      "price" : "230000"
+    },
+    "-Lk82AmropfubTi2M2So" : {
+      "decscription" : "áf",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2Fc0fc1aac-0ffc-4013-a5bc-5650cd6f90d3?alt=media&token=85481dd3-2ad0-47b0-be17-a3a4b1d325bf",
+      "menuId" : "-Lk81xgR75wm87RWKplP",
+      "name" : "mon moi 2",
+      "price" : "5000"
+    },
+    "-Lq1TU8qkD1JtxNUYlic" : {
+      "decscription" : "1234",
+      "discount" : "20",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/oderfood-405e5.appspot.com/o/images%2F86f400fe-317f-48bf-b935-fd8f42f5145f?alt=media&token=43fabdf3-946f-4742-8fe4-69bc8c65bd08",
+      "menuId" : "-LiTIxuPRXrHxEIsqXVl",
+      "name" : "banh",
+      "price" : "1238888"
+    }
+  },
+  "User" : {
+    "000" : {
+      "isStaff" : "false",
+      "name" : "zzzz",
+      "password" : "0000"
+    },
+    "089" : {
+      "IsStaff" : "true",
+      "Password" : "asd123123",
+      "name" : "Dong"
+    },
+    "113" : {
+      "isStaff" : "false",
+      "name" : "ông can",
+      "password" : "batchetmie"
+    },
+    "123456" : {
+      "isStaff" : "false",
+      "name" : "huy",
+      "password" : "123"
+    },
+    "0123456789" : {
+      "isStaff" : "false",
+      "name" : "nguyen x",
+      "password" : "123"
+    },
+    "0334519374" : {
+      "isStaff" : "false",
+      "name" : "huy",
+      "password" : "123"
+    },
+    "0898534001" : {
+      "isStaff" : "false",
+      "name" : "Nguyen Dong",
+      "password" : "asd123123"
+    }
+  }
+}

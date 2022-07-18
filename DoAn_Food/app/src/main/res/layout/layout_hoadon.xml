@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:id="@+id/layout_chinh">
+
+    <ImageView
+        android:id="@+id/viewimg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img_18"></ImageView>
+
+    <TextView
+        android:id="@+id/hoaDon_Ngay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/viewimg"
+        android:hint="Ngày đặt"
+        android:textSize="10pt"
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/hoadon_diaChi"
+        android:layout_toRightOf="@+id/viewimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hoaDon_Ngay"
+        android:layout_marginTop="15dp"
+        android:hint="Địa chỉ"
+        android:layout_marginLeft="20dp"
+        android:textSize="10pt"/>
+
+    <TextView
+        android:id="@+id/hoaDon_tongTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/hoaDon_Ngay"
+        android:hint="Tong tien"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/hoadon_thanhToan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hoaDon_Ngay"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/hoaDon_Ngay"
+        android:hint="Hinh thuc"
+        android:layout_marginLeft="50dp"
+        android:textSize="10pt"/>
+</RelativeLayout>

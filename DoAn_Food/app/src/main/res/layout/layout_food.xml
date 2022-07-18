@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_food"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:paddingTop="15dp"
+        android:id="@+id/img_food"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_gravity="center"
+        android:src="@drawable/pho"
+        app:civ_border_color="#FF5722"
+        app:civ_border_width="2dp"/>
+
+    <TextView
+        android:id="@+id/txt_Foodname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_food"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Phở"
+        android:textColor="#3DCA43"
+        android:textSize="8pt"
+        android:textStyle="bold" />
+</RelativeLayout>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MonAn.SuaMonAn">
+
+    <TextView
+        android:id="@+id/lblThemMonAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Sửa Món Ăn"
+        android:textColor="@color/teal_200"
+        android:textSize="15pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_suaTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblThemMonAn"
+        android:layout_marginTop="15dp"
+        android:hint="Nhập tên món ăn"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txt_suaGia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_suaTen"
+        android:layout_marginTop="15dp"
+        android:hint="Nhập giá món ăn"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txt_suachiTiet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_suaGia"
+        android:layout_marginTop="15dp"
+        android:hint="Nhập chi tiết món ăn"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageViewSua"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/txt_suachiTiet"
+        android:layout_marginLeft="50dp" />
+
+    <Button
+        android:id="@+id/btnUpImageSua"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_suachiTiet"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@id/imageViewSua"
+        android:text="Upload IMG" />
+
+    <Button
+        android:id="@+id/btnSuaMonAnMoi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageViewSua"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="60dp"
+        android:text="Xác nhận" />
+
+    <Button
+        android:id="@+id/btnHuySua"
+        android:onClick="back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageViewSua"
+        android:layout_toRightOf="@id/btnSuaMonAnMoi"
+        android:layout_marginLeft="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:text="Hủy bỏ"
+        tools:ignore="OnClick" />
+</RelativeLayout>

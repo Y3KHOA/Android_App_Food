@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.ThanhToanActivity">
+
+    <TextView
+        android:id="@+id/txtThanhToanTrucTiep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Thanh toán trực tiếp"
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtThanhToanOnline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtThanhToanTrucTiep"
+        android:layout_marginTop="10dp"
+        android:text="Thanh toán online"
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtThanhToanTongTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtThanhToanOnline"
+        android:layout_marginTop="10dp"
+        android:hint="Tiền Thanh Toán"
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txtDiaChiNhan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblDiaChi"
+        android:layout_marginTop="10dp"
+        android:hint="Nhập địa chỉ"
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblDiaChi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtThanhToanTongTien"
+        android:layout_marginTop="10dp"
+        android:text="Địa chỉ nhận hàng: "
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/switch1"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="20dp"
+        android:onClick="setCheck2"
+        android:layout_toRightOf="@id/txtThanhToanOnline" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@id/txtThanhToanTrucTiep"
+        android:checked="true"
+        android:onClick="setCheck" />
+
+    <Button
+        android:id="@+id/btnDatHang"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtDiaChiNhan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/add_to_cart_bg"
+        android:text="Đặt Hàng"
+        android:textSize="10pt" />
+</RelativeLayout>

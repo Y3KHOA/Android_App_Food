@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_list">
+
+    <ImageView
+        android:id="@+id/image_cart"
+        android:layout_width="86dp"
+        android:layout_height="95dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/pho" />
+
+    <TextView
+        android:id="@+id/txtTenMonAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/image_cart"
+        android:hint="Tên Món Ăn"
+        android:textSize="12pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtGiaMonAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtTenMonAn"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/image_cart"
+        android:hint="Giá Món Ăn"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/txtSoLuong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtTenMonAn"
+        android:layout_marginRight="50dp"
+        android:layout_alignParentRight="true"
+        android:hint="1"
+        android:textSize="10pt" />
+</RelativeLayout>

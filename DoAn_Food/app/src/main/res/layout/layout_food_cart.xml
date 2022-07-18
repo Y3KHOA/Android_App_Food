@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="170dp"
+    android:layout_height="280dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginBottom="10dp"
+    android:id="@+id/layout_food_cart"
+    android:background="@drawable/recycler_bg">
+
+
+    <ImageView
+        android:id="@+id/cart_image"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/bunbo" />
+
+    <TextView
+        android:id="@+id/cart_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Bún Bò Huế"
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_below="@+id/cart_image" />
+
+    <TextView
+        android:id="@+id/cart_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cart_name"
+        android:layout_marginStart="2dp"
+        android:fontFamily="@font/open_sans_semibold"
+        android:text="4.9"
+        android:textColor="#333333"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cart_name"
+        app:srcCompat="@drawable/ic_mdi_star_rate"
+        android:layout_toRightOf="@+id/cart_rating" />
+
+    <TextView
+        android:id="@+id/cart_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView3"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:gravity="center"
+        android:text="40000"
+        android:textSize="20sp" />
+</RelativeLayout>

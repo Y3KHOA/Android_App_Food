@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406893754529",
+    "project_id": "doan-food-4786a",
+    "storage_bucket": "doan-food-4786a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406893754529:android:04e54134a8ca6d7ca598e0",
+        "android_client_info": {
+          "package_name": "com.example.doan_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406893754529-k07mrmr6k881slglev1ek4qsn2ed59eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-VekWf_r1Js8LnK-LN1oG6kjKOTFKrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406893754529-k07mrmr6k881slglev1ek4qsn2ed59eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
